@@ -75,7 +75,7 @@ namespace FileChangeNotifier
                     }
                     catch
                     {
-                        MessageBox.Show("폴더형식이 잘못되었습니다.", "Notice");
+                        MessageBox.Show("폴더가 잘못되었습니다.", "Notice");
                         return;
                     }
                 }
